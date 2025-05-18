@@ -1,0 +1,10 @@
+.container{
+  box-sizing: border-box;
+        border: 3px solid;
+        border-radius: 10px;
+        margin: 0;
+        height: 80vh;
+        padding: 0;
+        width: 80vw;
+        background-color: #DDEB9D;
+}
